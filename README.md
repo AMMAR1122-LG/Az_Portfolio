@@ -62,9 +62,9 @@ Here’s a sneak peek into the interactive dashboard:
 
 ![Dashboard Overview](https://github.com/AMMAR1122-LG/Az_Portfolio/blob/main/images/Oodles%20of%20Noodles%20Dashboard.png)
 
-> Sales by Region & Outlet Performance:
 
-![Sales Breakdown](images/.png)
+
+![Divison Detail](https://github.com/AMMAR1122-LG/Az_Portfolio/blob/main/images/overview.png)
 
 ## 🔥 Why This Project?
 
