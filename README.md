@@ -60,7 +60,7 @@ The goal of this project was to analyze key performance indicators (KPIs) for th
 
 Here’s a sneak peek into the interactive dashboard:
 
-![Dashboard Overview](images/.png)
+![Dashboard Overview](https://github.com/AMMAR1122-LG/Az_Portfolio/blob/main/images/Oodles%20of%20Noodles%20Dashboard.png)
 
 > Sales by Region & Outlet Performance:
 
