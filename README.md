@@ -58,9 +58,13 @@ The goal of this project was to analyze key performance indicators (KPIs) for th
 
 ## 📷 Preview
 
-> _Add screenshots of your Power BI dashboard here for visual appeal (optional but highly recommended)._
+Here’s a sneak peek into the interactive dashboard:
 
----
+![Dashboard Overview](images/.png)
+
+> Sales by Region & Outlet Performance:
+
+![Sales Breakdown](images/.png)
 
 ## 🔥 Why This Project?
 
