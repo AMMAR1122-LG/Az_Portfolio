@@ -52,3 +52,43 @@ The goal of this project was to analyze key performance indicators (KPIs) for th
 
 ## 📁 File Structure
 
+
+
+---
+
+## 📷 Preview
+
+> _Add screenshots of your Power BI dashboard here for visual appeal (optional but highly recommended)._
+
+---
+
+## 🔥 Why This Project?
+
+This project showcases my ability to:  
+- Design clean and meaningful dashboards  
+- Tell data-driven stories that support business goals  
+- Apply DAX for dynamic calculations  
+- Clean and structure data using Power Query  
+- Think from both a business and user-experience perspective  
+
+---
+
+## 💼 About Me
+
+I'm a passionate **data analyst** with a growing portfolio of end-to-end projects in Power BI, Python, and Excel. My mission is to transform raw data into insightful visual stories that drive impact.
+
+📌 **GitHub**: [https://github.com/AMMAR1122-LG]  
+📌 **LinkedIn**: [https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/]  
+📌 **Portfolio Website**: [YourWebsite if any]
+
+---
+
+## ⭐ Let’s Connect!
+
+If you liked this project or have suggestions, feel free to fork, star, or drop me a message. I'm always open to collaborations and feedback.
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
+
+---
+
+
