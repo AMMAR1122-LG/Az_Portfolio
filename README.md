@@ -1,5 +1,8 @@
 # 🍜 Oodles of Noodles - Data Analysis Dashboard 📊
 
+
+🔗 **[View the Live Power BI Report](https://your-link-here.com)**  
+
 Welcome to the **Oodles of Noodles** Power BI Project – a flavorful journey into business intelligence using real-world inspired data from a fictional noodle restaurant chain. This interactive report highlights deep insights into sales, customer behavior, and operational trends, designed to help stakeholders make data-driven decisions.
 
 ---
